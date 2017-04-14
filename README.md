@@ -26,7 +26,7 @@ module.exports = iOSAndroidIntent;
 
 say Ok Google 'take a note I am happy' will send status message to android intent and get back to status on success.
 
-The below getIntent method will execute when corodva execute method call. The android platform file location path: src/android/iOSAndroidIntent.java.
+The below getIntent method will execute when corodva execute method call. You can find iOSAndroidIntent.java file path -> src/android/iOSAndroidIntent.java.
 
 ```java
 /**
@@ -46,7 +46,7 @@ The below getIntent method will execute when corodva execute method call. The an
 
 say Hey Siri 'send a message using appName I am happy' will send status message to iOS intent and get back to status on success.
 
-The below getIntent method will execute when cordova is ready to perform. The iOS platform file location path: src/ios/iOSAndroidIntent.m
+The below getIntent method will execute when cordova is ready to perform. You can find iOSAndroidIntent.m file path -> src/ios/iOSAndroidIntent.m
 
 ```objective-c
 /*
