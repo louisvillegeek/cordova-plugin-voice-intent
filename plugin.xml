@@ -21,5 +21,6 @@
         <config-file parent="/*" target="AndroidManifest.xml">
         </config-file>
         <source-file src="src/android/iOSAndroidIntent.java" target-dir="src/com/louisvillegeek/iOSAndroidIntent/iOSAndroidIntent" />
+        <hook src="hooks/after_platform_add/android_manifest_prepare.js" type="after_prepare" />
     </platform>
 </plugin>
