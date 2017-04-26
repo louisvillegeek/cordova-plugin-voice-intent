@@ -1,4 +1,4 @@
-package com.abhaya.iOSAndroidIntent;
+package com.louisvillegeek.iOSAndroidIntent;
 
 import org.apache.cordova.CordovaActivity;
 import org.apache.cordova.CordovaPlugin;

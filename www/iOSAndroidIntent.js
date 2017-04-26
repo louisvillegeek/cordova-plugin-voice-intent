@@ -13,5 +13,5 @@ var iOSAndroidIntent = {
             }, "iOSAndroidIntent", "getIntent", []);
         });
     }
-}
+};
 module.exports = iOSAndroidIntent;
